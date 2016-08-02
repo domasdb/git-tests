@@ -2,3 +2,6 @@ Hello, world!
 Hi in master
 Hi hi
 wat
+detached
+detached 2
+detached 3
